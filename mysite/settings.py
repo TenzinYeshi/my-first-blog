@@ -25,7 +25,7 @@ SECRET_KEY = 'dnt@pnhbmsv4zexofycz)33%*i4^!yuynziw9+l$j74%hd(65c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<yeshi>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yeshi.pythonanywhere.com']
 
 
 # Application definition
